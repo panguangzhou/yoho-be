@@ -1,0 +1,119 @@
+连接成功!
+[ { _id: 5bcd7dd8042eaa1c64e05eb8,
+    ids: 1,
+    nums: 13,
+    name: '手办',
+    title: 'HOT TOYS 复仇者联盟3：无限战争战争机器WARK',
+    price: 2630,
+    imgUrl: 'https://img11.static.yhbimg.com/goodsimg/2018/07/31/13/019445cd91cfa99019d7c220eb2376054f.jpg?imageMogr2/thumbnail/235x314/position/center/quality/60/format/webp',
+    hot: 3006 },
+  { _id: 5bcd7dd8042eaa1c64e05eb9,
+    ids: 2,
+    nums: 10,
+    name: '鞋子',
+    title: '中国李宁 巴黎时装周走秀同款 MIN II PLAYTFORM 男子潮流鞋',
+    price: 699,
+    imgUrl: 'https://img12.static.yhbimg.com/goodsimg/2018/08/14/10/0249e074f4d5c39f40ffee0dfa03ca7b49.jpg?imageMogr2/thumbnail/235x314/position/center/quality/60/format/webp',
+    hot: 223434 },
+  { _id: 5bcd7dd8042eaa1c64e05eba,
+    ids: 3,
+    nums: 200,
+    name: '手办',
+    title: 'Ron English x APPortfolio x made by monsters Melty',
+    price: 2488,
+    imgUrl: 'https://img13.static.yhbimg.com/goodsimg/2018/08/18/11/026fac9f7f71ece90cc29eb1eef9f9385a.jpg?imageMogr2/thumbnail/235x314/position/center/quality/60/format/webp',
+    hot: 2444 },
+  { _id: 5bcd7dd8042eaa1c64e05ebb,
+    ids: 4,
+    nums: 65,
+    name: '鞋子',
+    title: 'Wade 李宁韦德之道6“白燃”',
+    price: 1099,
+    imgUrl: 'https://img11.static.yhbimg.com/goodsimg/2018/03/20/10/01f03a387ed77127b56404b40da938c610.jpg?imageMogr2/thumbnail/235x314/position/center/quality/60/format/webp',
+    hot: 89898 },
+  { _id: 5bcd7dd8042eaa1c64e05ebc,
+    ids: 5,
+    nums: 89,
+    name: '手办',
+    title: 'NIKE PG2',
+    price: 899,
+    imgUrl: 'https://img12.static.yhbimg.com/goodsimg/2017/12/21/16/02c8b9535eebc7fa220b808128adc02da3.jpg?imageMogr2/thumbnail/235x314/position/center/quality/60/format/webp',
+    hot: 283876 },
+  { _id: 5bcd7dd8042eaa1c64e05ebd,
+    ids: 6,
+    nums: 45,
+    name: '手办',
+    title: 'KAWS Companion(Flayed) 艺术公仔',
+    price: 1599,
+    imgUrl: 'https://img10.static.yhbimg.com/goodsimg/2017/07/12/15/017fda1606edf8931d6335b5059f67160f.jpg?imageMogr2/thumbnail/235x314/position/center/quality/60/format/webp',
+    hot: 8878 },
+  { _id: 5bcd7dd8042eaa1c64e05ebe,
+    ids: 7,
+    nums: 80,
+    name: '手办',
+    title: 'ZCWO 加菲猫系列 Garfeld-D9 Sants Clsus',
+    price: 259,
+    imgUrl: 'https://img13.static.yhbimg.com/goodsimg/2018/03/21/12/02aeb75828d9bfd4c5ae5e2b9626c5bc2a.jpg?imageMogr2/thumbnail/750x/quality/60/interlace/1/format/webp',
+    hot: 6878 },
+  { _id: 5bcd7dd8042eaa1c64e05ebf,
+    ids: 8,
+    nums: 20,
+    name: '眼罩',
+    title: 'BOSSBUN.MEN燃气热敷眼罩(十片)',
+    price: 89,
+    daze: 139,
+    imgUrl: 'https://img11.static.yhbimg.com/goodsimg/2017/12/05/17/013067526bbcadc187451349ab981f31f4.jpg?imageMogr2/thumbnail/235x314/position/center/quality/60/format/webp',
+    hot: 697 } ]
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22HOT+TOYS+%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F3%EF%BC%9A%E6%97%A0%E9%99%90%E6%88%98%E4%BA%89%E6%88%98%E4%BA%89%E6%9C%BA%E5%99%A8WARK%22,%22price%22:2630,%22nums%22:13,%22hot%22:%223006%22%7D [32m200 [0m1195.379 ms - 2559[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m2151.500 ms - 2559[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22HOT+TOYS+%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F3%EF%BC%9A%E6%97%A0%E9%99%90%E6%88%98%E4%BA%89%E6%88%98%E4%BA%89%E6%9C%BA%E5%99%A8WARK%22,%22price%22:2630,%22nums%22:13,%22hot%22:%223007%22%7D [32m200 [0m1051.011 ms - 2559[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%228%22,%22title%22:%22HOT+TOYS+%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F3%EF%BC%9A%E6%97%A0%E9%99%90%E6%88%98%E4%BA%89%E6%88%98%E4%BA%89%E6%9C%BA%E5%99%A8WARK%22,%22price%22:2630,%22nums%22:13,%22hot%22:3007%7D [32m200 [0m1095.958 ms - 2581[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22Ron+English+x+APPortfolio+x+made+by+monsters+Melty%22,%22price%22:2488,%22nums%22:200,%22hot%22:2444%7D [32m200 [0m1072.309 ms - 2576[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1407.619 ms - 2576[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1091.215 ms - 2576[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22Ron+English+x+APPortfolio+x+made+by+monsters+Melty%22,%22price%22:2488,%22nums%22:200,%22hot%22:2444%7D [32m200 [0m1013.614 ms - 2576[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1174.556 ms - 2576[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22+%E7%94%B7%E5%AD%90%E6%BD%AE%E6%B5%81%E9%9E%8B%22,%22price%22:%22123%22,%22nums%22:%22123%22,%22hot%22:%22123%22%7D [32m200 [0m1062.039 ms - 2540[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1290.180 ms - 2540[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1309.270 ms - 2540[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22+%E7%94%B7%E5%AD%90%E6%BD%AE%E6%B5%81%E9%9E%8B%22,%22price%22:123,%22nums%22:123,%22hot%22:123%7D [32m200 [0m1045.695 ms - 2540[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1105.628 ms - 2540[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1217.401 ms - 2540[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22%E7%94%B7%E5%AD%90%E6%BD%AE%E6%B5%81%22,%22price%22:%22666%22,%22nums%22:123,%22hot%22:%222333%22%7D [32m200 [0m1043.557 ms - 2537[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1120.243 ms - 2537[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22%E7%94%B7%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BD%AE%E6%B5%81%E9%9E%8B%22,%22price%22:666,%22nums%22:123,%22hot%22:%223333%22%7D [32m200 [0m1014.785 ms - 2549[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22%E7%94%B7%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BD%AE%E6%B5%81%E9%9E%8B%22,%22price%22:666,%22nums%22:123,%22hot%22:3333%7D [32m200 [0m1010.985 ms - 2549[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22%E7%94%B7%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BD%AE%E6%B5%81%E9%9E%8B%22,%22price%22:666,%22nums%22:123,%22hot%22:3333%7D [32m200 [0m1024.113 ms - 2549[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22%E7%94%B7%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BD%AE%E6%B5%81%E9%9E%8B%22,%22price%22:666,%22nums%22:123,%22hot%22:3333%7D [32m200 [0m1026.870 ms - 2549[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22%E7%94%B7%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BD%AE%E6%B5%81%E9%9E%8B%22,%22price%22:666,%22nums%22:123,%22hot%22:3333%7D [32m200 [0m1019.354 ms - 2549[0m
+连接成功！
+[0mGET /api/findall [32m200 [0m1307.653 ms - 2549[0m
+连接成功!
+[0mGET /api/upadata?data=%7B%22ids%22:%221%22,%22title%22:%22%E7%94%B7%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BD%AE%E6%B5%81%E9%9E%8B%22,%22price%22:666,%22nums%22:123,%22hot%22:%223335%22%7D [32m200 [0m1040.425 ms - 2549[0m
+[0mGET /api/hello [33m404 [0m685.427 ms - 160[0m
+[0mGET /stylesheets/style.css [32m200 [0m48.260 ms - 111[0m
+[0mGET / [32m200 [0m19.912 ms - 170[0m
+[0mGET /stylesheets/style.css [36m304 [0m9.266 ms - -[0m
+[0mGET / [32m200 [0m2.182 ms - 170[0m
+[0mGET /stylesheets/style.css [32m200 [0m48.162 ms - 111[0m
