@@ -5077,3 +5077,6 @@ ReferenceError: be is not defined
 (node:5976) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
 (node:5976) DeprecationWarning: collection.update is deprecated. Use updateOne, updateMany, or bulkWrite instead.
 (node:5260) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+(node:6772) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+(node:5468) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+(node:5468) DeprecationWarning: collection.insert is deprecated. Use insertOne, insertMany or bulkWrite instead.
