@@ -1,0 +1,23 @@
+.regbox{
+    width:400px;
+    height:200px;
+    background:#ccc;
+    position:absolute;
+    border-radius: 5px;
+    padding:15px;
+    box-sizing: border-box;
+}
+.regbox h3{
+    width:100%;
+    text-align:center;
+    letter-spacing:20px
+}
+.regbox .input-group{
+    margin-top:15px;
+}
+.regbox .input-group{
+    margin-bottom:5px;
+}
+.regbox .juzhong{
+    text-align: center;
+}

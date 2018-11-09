@@ -1,0 +1,50 @@
+.popupBox{
+    width:300px;
+    position: absolute;
+    top:30%;
+    left:30%;
+    background:#fff;
+    border-radius: 3px;
+}
+.popupBox h3{
+    color:red;
+    text-align: center;
+    background: rgba(0, 0, 0, .6);
+}
+.popupBox p{
+    text-align: center;
+    font-size:30px;
+}
+.fl{
+    float: left;
+    margin-left:20%;
+}
+.fr
+{
+    float: right;
+    margin-right:20%;
+}
+.goodslist{
+    position: absolute;
+    left:25%;
+    top:25%;
+    width: 500px;
+    background:rgba(0,0,0,.9);
+    border-radius: 5px;
+    padding:25px;
+}
+.goodslist h2{
+    color:#fff;
+    text-align: center;
+}
+.goodslist .input-group-addon{
+    display: flex;
+    align-items: center;
+}
+.goodslist .input-group-addon{
+    width:100px;
+    color:#fff;
+}
+.goodslist .input-group{
+    margin:10px 0;
+}
